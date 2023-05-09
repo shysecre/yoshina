@@ -1,0 +1,6 @@
+dist
+data
+ncc
+node_modules
+.env
+.prettierrc
