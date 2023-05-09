@@ -8,6 +8,8 @@ Simple tool that uses spotify and twitch api to automate song requests via custo
 2. [How to use it](#how-to-use-it)
 3. [Help wanted](#help-wanted)
 
+Leave a ⭐ if you like it :)
+
 # How it works
 
 1. You authorizing with twitch and spotify
