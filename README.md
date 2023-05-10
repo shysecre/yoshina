@@ -30,11 +30,12 @@ Leave a ⭐ if you like it :)
   For spotify: `http://localhost:PORT-FROM-.ENV/spotify-auth`<br />
   For twitch: `http://localhost:PORT-FROM-.ENV/twitch-auth`
 4. Create folder named data in root folder
-5. Run `yarn run:compile && yarn run:ncc`<br />
+5. Install packages `npm i`
+6. Run `npm run run:compile && npm run run:ncc`<br />
 That will create single js file in ncc folder that you can use to start application. It will be lightweight and easy to move
-6. Make sure you have filled .env file and data folder besides newly created index js file
-7. Run it using node `node index.js`
-8. Don't forget to open spotify when you start app
+7. Make sure you have filled .env file and data folder besides newly created index js file
+8. Run it using node `node index.js`
+9. Don't forget to open spotify when you start app
 
 # Help wanted
 
