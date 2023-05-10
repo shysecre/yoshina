@@ -2,7 +2,7 @@
 
 Simple tool that uses spotify and twitch api to automate song requests via custom rewards on twitch.
 
-# Table on content
+# Table of content
 
 1. [How it works](#how-it-works)
 2. [How to use it](#how-to-use-it)
