@@ -1,11 +1,11 @@
 import {
   HandleSongRequestOptions,
   PlaySongReturn,
+  RequestQueueElement,
 } from '../../types/spotify.types'
 import { Log } from '../../utils/log'
 import { getTrackIdFromLink } from '../../utils/parse-track'
 import { SpotifyClient } from '../spotify-client'
-import { RequestQueueElement } from '../types'
 
 export class SpotifyMusicService {
   public spotifyClient: SpotifyClient
