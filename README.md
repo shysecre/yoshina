@@ -36,6 +36,7 @@ That will create single js file in ncc folder that you can use to start applicat
 7. Make sure you have filled .env file and data folder besides newly created index js file
 8. Run it using node `node index.js`
 9. Don't forget to open spotify when you start app
+10. Also you need to start listen to something for atleast 1 second on first spotify launch 
 
 # Help wanted
 
