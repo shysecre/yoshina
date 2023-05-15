@@ -21,6 +21,8 @@ Leave a ⭐ if you like it :)
 
 # How to use it
 
+First of all you need spotify premium to use this program <br />You can only be able to add track to player queue via API only if you have spotify premium
+
 1. Download repo source code
 2. Download node 18.16 (I'm using [nvm](https://github.com/nvm-sh/nvm))
 3. Create .env file in root folder, fill it according to example file (.env.example)<br />
